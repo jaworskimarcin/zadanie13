@@ -1,0 +1,16 @@
+section {
+    background-color: beige;
+    display: inline-block;
+}
+
+h2{
+    color: red;
+}
+
+section p:first-of-type {
+    color: brown;
+}
+
+section p:last-of-type{
+    color: darkblue;
+}
